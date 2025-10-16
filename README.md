@@ -6,8 +6,8 @@ Proje, **Flask**, **Google Gemini**, **LangChain**, ve **Bootstrap** teknolojile
 ---
 
 ## Örnek Görüntü ve Video
-![Chatbot Arayüz Görseli](demo.png)
-[Video Demo](path/to/demo.mp4)
+
+[![Chatbot Demo Video](https://img.youtube.com/vi/DuxALgXKrFc/0.jpg)](https://www.youtube.com/watch?v=DuxALgXKrFc)
 
 ---
 
