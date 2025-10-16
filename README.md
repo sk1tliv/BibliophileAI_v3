@@ -5,7 +5,7 @@ Proje, **Flask**, **Google Gemini**, **LangChain**, ve **Bootstrap** teknolojile
 
 ---
 
-## Örnek Görüntü ve Video
+## Proje Videosu
 
 [![Chatbot Demo Video](https://img.youtube.com/vi/DuxALgXKrFc/0.jpg)](https://www.youtube.com/watch?v=DuxALgXKrFc)
 
