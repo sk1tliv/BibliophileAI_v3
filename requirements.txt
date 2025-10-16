@@ -1,0 +1,8 @@
+flask
+python-dotenv
+pandas
+google-generativeai
+markdown
+langchain_google_genai
+langchain_community
+chromadb
