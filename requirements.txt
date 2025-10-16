@@ -1,9 +1,11 @@
 flask
+gunicorn
 python-dotenv
 pandas
-google-generativeai
 markdown
+google-generativeai
+langchain
 langchain_google_genai
 langchain_community
 chromadb
-gunicorn
+faiss-cpu
