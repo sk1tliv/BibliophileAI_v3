@@ -6,3 +6,4 @@ markdown
 langchain_google_genai
 langchain_community
 chromadb
+gunicorn
