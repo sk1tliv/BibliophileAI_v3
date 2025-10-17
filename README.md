@@ -1,7 +1,7 @@
 # BibliophileAI - RAG Tabanlı Kitap Öneri Chatbotu
 
 BibliophileAI, kitap bilgilerini ve önerilerini akıllı bir şekilde sunan **RAG (Retrieval-Augmented Generation)** tabanlı bir chatbot uygulamasıdır.  
-Proje, **Flask**, **Google Gemini**, **LangChain**, ve **Bootstrap** teknolojileriyle geliştirilmiştir.
+Proje, **Flask**, **Google Gemini**, **LangChain** teknolojileriyle geliştirilmiştir.
 
 ---
 
@@ -32,8 +32,8 @@ Proje, **Flask**, **Google Gemini**, **LangChain**, ve **Bootstrap** teknolojile
 | Alan | Teknoloji |
 |------|------------|
 | Backend | Python |
-| LLM API | Google Gemini (Generative AI SDK) |
-| Frontend | HTML, CSS, Bootstrap |
+| LLM API | Google Gemini |
+| Frontend | HTML, CSS |
 
 ---
 
